@@ -1,2 +1,3 @@
-tweet-to-map
+Tweet to Map
 ============
+http://tweettomap.com
